@@ -1,6 +1,6 @@
 # IMDb-Regression
 
-![Actual by predicted plot](Actual by predicted plot.png)
+![Actual by predicted plot](https://github.com/K-Du/IMDb-Regression/blob/master/Actual%20by%20predicted%20plot.png)
 
 This project aims to predict the average user rating for movies on [IMDb.com](http://imdb.com). Feature engineering was done using some domain knowledge of which actors and directors are (in)famously good or bad. An XGBoost model was used with linear regression as a comparison. 
 
